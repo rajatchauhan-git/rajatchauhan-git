@@ -3,9 +3,9 @@
 
 I am [Rajat Chauhan](https://www.linkedin.com/in/shubhamlondhe1996/), a DevOps Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;passionate about automating processes using CI/CD workflows and implementing automated management features such as performance monitoring, diagnostics, failover, and availability capabilities with over 6+ years of professional experience in both onsite and remote settings. 🎯
 
-<p float="left">
+<p align="center">
 <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="devops.gif" style="max-width: 100%; height: auto; width: 80%;" alt="Centered Image" align="center"/> 
+    <img src="devops.gif" style="max-width: 100%; height: auto; width: 60%;" alt="Centered Image" /> 
   </a>
  </p>
 <hr>
@@ -65,16 +65,16 @@ I am [Rajat Chauhan](https://www.linkedin.com/in/shubhamlondhe1996/), a DevOps E
 </p>
 
 <HR>
-<p float="left">
+<p align="center">
 <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="devops1.gif" style="max-width: 100%; height: auto; width: 80%;" alt="Centered Image"/> 
+    <img src="devops1.gif" style="max-width: 100%; height: auto; width: 60%;" alt="Centered Image"/> 
   </a> 
   </p>
 <hr>
 
-### 📫 How to reach me?
+### <p align="center">📫 How to reach me? </p>
 
-<div align="left">
+<div align="center">
   <a href="mailto:chauhanrajat.work@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/chauhanrajat-work/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
   <a href="https://chauhanrajatwork.hashnode.dev/"><img src="https://img.icons8.com/?size=77&id=HnB8zGOh5xgd&format=png" width="52" height="40" alt="medium logo"  /> </a>
