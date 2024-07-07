@@ -75,7 +75,7 @@ I am [Rajat Chauhan](https://www.linkedin.com/in/shubhamlondhe1996/), a DevOps E
 ### <p align="center">📫 How to reach me? </p>
 
 <div align="center">
-  <a href="mailto:chauhanrajat.work@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="mailto: chauhanrajat.work@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/chauhanrajat-work/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
   <a href="https://chauhanrajatwork.hashnode.dev/"><img src="https://img.icons8.com/?size=77&id=HnB8zGOh5xgd&format=png" width="52" height="40" alt="medium logo"  /> </a>
   <a href="https://www.instagram.com/rcjerry/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /> </a>
