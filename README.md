@@ -55,7 +55,7 @@ I am [Rajat Chauhan](https://www.linkedin.com/in/shubhamlondhe1996/), a DevOps E
 ### Cloud
   
  <p float="left">
-  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
+  <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services" target="_blank" >
     <img src="https://techcrunch.com/wp-content/uploads/2021/12/aws-logo-glitch.gif?w=1024"  height="75" />
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
