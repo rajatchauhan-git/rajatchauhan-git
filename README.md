@@ -67,7 +67,7 @@ I am [Rajat Chauhan](https://www.linkedin.com/in/shubhamlondhe1996/), a DevOps E
 <HR>
 <p float="left">
 <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="devops1.gif" style="max-width: 100%; height: auto; width: 100%;" alt="Centered Image"/> 
+    <img src="devops1.gif" style="max-width: 100%; height: auto; width: 80%;" alt="Centered Image"/> 
   </a> 
   </p>
 <hr>
