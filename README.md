@@ -19,16 +19,16 @@ I am [Rajat Chauhan](https://www.linkedin.com/in/chauhanrajat-work/), a DevOps E
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-jenkins-1-282385.png?f=webp&w=256"  height="90" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="90" /> 
   </a>
   <a href="https://kubernetes.io/docs/home/" target="_blank" >
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-kubernets-283489.png?f=webp&w=256"  height="80" /> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-kubernets-283489.png?f=webp&w=256"  height="90" /> 
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="90" />
   </a>
   <a href="https://docs.ansible.com/ansible/2.9/modules/list_of_all_modules.html" target="_blank" >
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-ansible-282283.png?f=webp&w=256"  height="75" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-ansible-282283.png?f=webp&w=256"  height="90" />
   </a>
   <a href="https://www.terraform.io/use-cases/infrastructure-as-code" target="_blank" >
     <img src="https://www.praktikgroup.com/wp-content/uploads/2022/04/Picture1.png" height="90" />
@@ -56,10 +56,10 @@ I am [Rajat Chauhan](https://www.linkedin.com/in/chauhanrajat-work/), a DevOps E
   
  <p float="left">
   <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services" target="_blank" >
-    <img src="https://techcrunch.com/wp-content/uploads/2021/12/aws-logo-glitch.gif?w=1024"  height="75" />
+    <img src="https://techcrunch.com/wp-content/uploads/2021/12/aws-logo-glitch.gif?w=1024"  height="90" />
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="90" />
   </a>
  </p>
 </p>
@@ -75,9 +75,9 @@ I am [Rajat Chauhan](https://www.linkedin.com/in/chauhanrajat-work/), a DevOps E
 ### <p align="center">📫 How to reach me? </p>
 
 <div align="center">
-  <a href="mailto: chauhanrajat.work@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/chauhanrajat-work/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
-  <a href="https://chauhanrajatwork.hashnode.dev/"><img src="https://img.icons8.com/?size=77&id=HnB8zGOh5xgd&format=png" width="52" height="40" alt="medium logo"  /> </a>
-  <a href="https://www.instagram.com/rcjerry/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /> </a>
-  <a href="https://t.me/devopsjerry"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /> </a>
+  <a href="mailto: chauhanrajat.work@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="50" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/chauhanrajat-work/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="50" alt="linkedin logo"  /> </a>
+  <a href="https://chauhanrajatwork.hashnode.dev/"><img src="https://img.icons8.com/?size=77&id=HnB8zGOh5xgd&format=png" width="60" height="50" alt="medium logo"  /> </a>
+  <a href="https://www.instagram.com/rcjerry/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="50" alt="instagram logo"  /> </a>
+  <a href="https://t.me/devopsjerry"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="50" alt="telegram logo"  /> </a>
 </div>
