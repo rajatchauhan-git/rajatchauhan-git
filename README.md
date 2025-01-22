@@ -48,7 +48,7 @@ I am [Rajat Chauhan](https://www.linkedin.com/in/chauhanrajat-work/), a DevOps E
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
   </a>
     <a href="https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/" target="_blank" >
-    <img src="https://media.licdn.com/dms/image/D4D12AQFyLZBgxb109A/article-cover_image-shrink_720_1280/0/1678105450255?e=1726099200&v=beta&t=oSq43r61CP3mmh50lyfSqRmAjEBcIeGmYdvoyT4AcM8"  height="90" />
+    <img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png"  height="90" />
   </a>
  </p>
   
