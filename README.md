@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am [Rajat Chauhan](https://www.linkedin.com/in/chauhanrajat-work/), a DevOps Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;passionate about automating processes using CI/CD workflows and implementing automated management features such as performance monitoring, diagnostics, failover, and availability capabilities with over 6+ years of professional experience in both onsite and remote settings. 🎯
+I am [Rajat Chauhan](https://www.linkedin.com/in/chauhanrajat-work/), a DevOps Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about automating processes using CI/CD workflows and implementing automated management features such as performance monitoring, diagnostics, failover, and availability capabilities with over 7+ years of professional experience in both onsite and remote settings. 🎯
 
 <p align="center">
 <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
